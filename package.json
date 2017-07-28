@@ -4,6 +4,8 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "express-validator": "^3.2.1",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
     "mustache-express": "^1.2.5"
   }
 }
